@@ -1,0 +1,19 @@
+.body_background {
+    background-color: #00f;
+    text-align: center;
+}
+
+.img-responsive {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    margin-left: 630px;
+}
+
+h1 {
+    border: 5px;
+    border-color: cyan;
+    border-style: ridge;
+    
+}
